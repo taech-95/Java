@@ -50,6 +50,3 @@ public class Main {
         }
     }
 }
-encapsulation, abstraction, inheritance, and polymorphism
-        A possibility to create a new class from existing one
-        Polymorphism means many forms - it's allow us to use inherited methods/parameters to perform different tasks 
