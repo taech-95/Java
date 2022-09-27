@@ -7,6 +7,7 @@ public class Main {
         Car car = new Car();
         car.setModel("Lada");
         System.out.println(car.getModel());
+        Account account = new Account(12312312,500, "Mykola","1@gmail.com", "3432432");
 
     }
 }

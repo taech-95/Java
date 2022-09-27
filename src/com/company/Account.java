@@ -9,11 +9,11 @@ public class Account {
 
 
     public Account(){
-        setAccountNumber(21312321);
-        setBalance(500);
-        setCustomerName("Mykola");
-        setEmail("Mykola@gmail.con");
-        setPhoneNumber("23721123");
+        accountNumber = 21312321;
+        balance=500;
+        customerName = "Mykola";
+        email = "mykola@gmail.com";
+        phoneNumber = "2321321132";
     }
 
     public Account(int accountNumber, double balance, String customerName, String email, String phoneNumber){
