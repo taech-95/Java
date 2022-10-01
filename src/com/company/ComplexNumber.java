@@ -33,6 +33,5 @@ public class ComplexNumber {
         this.imaginary = getImaginary()- x.getImaginary()  ;
     }
 
-
 }
 
